@@ -1,2 +1,7 @@
 hager
+<<<<<<< HEAD
 gamal
+=======
+samir
+yara
+>>>>>>> 7f375d050e2f00ef5ca01a905cb7f050e889c13e
